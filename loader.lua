@@ -1,5 +1,5 @@
 local Games = {
-    [123456789] = "https://raw.githubusercontent.com/USERNAME/REPO/main/game1.lua",
+    [123456789] = "https://raw.githubusercontent.com/Zanund/Zankuru-Hub/refs/heads/main/PlantsVsBrainrots.lua",
     [987654321] = "https://raw.githubusercontent.com/USERNAME/REPO/main/game2.lua"
 }
 

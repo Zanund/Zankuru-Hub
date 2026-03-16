@@ -1,6 +1,6 @@
 local Games = {
     [127742093697776] = "https://raw.githubusercontent.com/Zanund/Zankuru-Hub/refs/heads/main/PlantsVsBrainrots.lua",
-    [987654321] = "https://raw.githubusercontent.com/USERNAME/REPO/main/game2.lua"
+    [1537690962] = "https://raw.githubusercontent.com/Zanund/Zankuru-Hub/refs/heads/main/Bee%20Swarm%20Simulator.lua"
 }
 
 local universal = "https://raw.githubusercontent.com/USERNAME/REPO/main/universal.lua"

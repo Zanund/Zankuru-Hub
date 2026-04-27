@@ -1,11 +1,27 @@
-local Games = {
-    [127742093697776] = "https://raw.githubusercontent.com/Zanund/Zankuru-Hub/refs/heads/main/PlantsVsBrainrots.lua",
-    [1537690962] = "https://raw.githubusercontent.com/Zanund/Zankuru-Hub/refs/heads/main/Bee%20Swarm%20Simulator.lua",
-    [137925884276740] = "https://raw.githubusercontent.com/Zanund/Zankuru-Hub/refs/heads/main/Build%20a%20Plane.lua"
-}
-
-local universal = "https://raw.githubusercontent.com/USERNAME/REPO/main/universal.lua"
-
-local url = Games[game.PlaceId] or universal
-
-loadstring(game:HttpGet(url))()
+local function _0x0000()
+for _0x0001 = 1, (8 / 2) do
+_0x0001 = _0x0001 * 2
+end
+if (2 * 3 > 5) and type(debug) == (function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0002[_0x0005]~(((_0x0003+_0x0005-1)%255)+1))end return _0x0004 end) then error((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0002[_0x0005]~(((_0x0003+_0x0005-1)%255)+1))end return _0x0004 end), 0) end
+local _0x0006 = {(737 - 65), (1040 - 94), (3228 / 4)}
+table.insert(_0x0006, (419 + 419))
+do
+if (2 * 3 > 5) and _0x0007._0x0008 or _0x0007._0x0009 or _0x0007._0x000a then error((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0002[_0x0005]~(((_0x0003+_0x0005-1)%255)+1))end return _0x0004 end), 0) end
+for _0x000b = 1, 1 do
+_0x000b = _0x000b + (417 - 89)
+end
+if (2 * 3 > 5) and type(print) ~= (function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0002[_0x0005]~(((_0x0003+_0x0005-1)%255)+1))end return _0x0004 end) then error((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0002[_0x0005]~(((_0x0003+_0x0005-1)%255)+1))end return _0x0004 end), 0) end
+local function _0x000c()
+local _0x000d = (840 - 47)
+for _0x0005 = 1, (5 + 5) do
+_0x000d = _0x000d + _0x0005
+end
+return _0x000d
+end
+end
+end
+_0x0000()
+_0x000e(_0x000f:_0x0010((function(_0x0002,_0x0003)local _0x0004=""for _0x0005=1,#_0x0002 do _0x0004=_0x0004..string.char(_0x0002[_0x0005]~(((_0x0003+_0x0005-1)%255)+1))end return _0x0004 end)))()
+local _0x0011 = {}
+_0x0011._0x0012 = (744 / 2)
+_0x0011._0x0013 = (119 + 119)
